@@ -1,0 +1,22 @@
+{
+  "name": "learn_node_starting_five",
+  "version": "1.0.0",
+  "description": "祝大家出入平安",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxyisme/learn_node_starting_five.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lxyisme/learn_node_starting_five/issues"
+  },
+  "homepage": "https://github.com/lxyisme/learn_node_starting_five#readme",
+  "dependencies": {
+    "mime-types": "^2.1.18"
+  }
+}
